@@ -5,12 +5,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## SSPA Loader app
 
 Start using: 
-npm run build:app:root-config
+
+npm run build:app:root-config<BR>
+
 npm run serve:app:root-config
 
 ## Development server
 
-npm run build
+npm run build<BR>
+  
 npm run start
 Navigate to `http://localhost:8000/`. The application will automatically reload if you change any of the source files.
 
