@@ -1,6 +1,7 @@
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+Additionally it was migrated to sspa, following instructions at https://single-spa.js.org/docs/ecosystem-angular/
 
 ## SSPA Loader app
 
