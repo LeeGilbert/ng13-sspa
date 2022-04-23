@@ -15,7 +15,7 @@ npm run serve:app:root-config
 npm run build<BR>
   
 npm run start
-Navigate to `http://localhost:8000/`. The application will automatically reload if you change any of the source files.
+Navigate to `http://localhost:8000/`. 
 
 ## Code scaffolding
 
