@@ -14,7 +14,7 @@ npm run serve:app:root-config
 
 npm run build<BR>
   
-npm run start
+npm run start<BR>
 Navigate to `http://localhost:8000/`. 
 
 ## Code scaffolding
